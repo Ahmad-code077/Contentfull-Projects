@@ -5,7 +5,7 @@ const Hero = () => {
     <section className='hero'>
       <div className='hero-center'>
         <div className='hero-title'>
-          <h1>ContentFull CMS</h1>
+          <h1>Projects</h1>
           <p>
             My project showcase includes a variety of applications that
             highlight my diverse skills in web development. Among them are a
