@@ -290,7 +290,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 5rem;
+  padding: 2rem;
 }
 .img-container {
   display: none;
@@ -314,6 +314,9 @@ body {
     grid-template-columns: 2fr 1fr;
     place-items: center;
     gap: 4rem;
+  }
+  .hero {
+    padding: 5rem;
   }
   .img-container {
     display: block;
