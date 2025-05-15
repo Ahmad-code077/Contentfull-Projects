@@ -7,13 +7,12 @@ const Hero = () => {
         <div className='hero-title'>
           <h1>Projects</h1>
           <p>
-            My project showcase includes a variety of applications that
-            highlight my diverse skills in web development. Among them are a
-            Grocery Bud Application, a Color Shades Generator for creating
-            dynamic color palettes, my personal portfolio site, an Unsplash
-            Images site for browsing high-quality photos, and a Shopping Cart
-            application. These projects, along with many others, demonstrate my
-            ability to build practical and interactive web solutions.
+            Explore my top projects, including a modern Dating App (Love
+            Finder), the Trust Your Surgeon platform, a full-featured E-Commerce
+            site, and an Instagram Video Downloader. These applications showcase
+            my expertise in building real-world, scalable web solutions using
+            the latest technologies. Check out these and more in my portfolio
+            below.
           </p>
         </div>
         <div className='img-container'>

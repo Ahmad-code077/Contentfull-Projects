@@ -3,8 +3,8 @@ const Projects = () => {
   const { loading, people } = useFetchPerson();
   if (loading) {
     return (
-      <section className='projects'>
-        <h1>Loading...</h1>
+      <section className='loaderParent '>
+        <div className='loader'></div>
       </section>
     );
   }
